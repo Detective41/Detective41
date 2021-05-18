@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Detective41, a full-time iOS developer, i started woking on iOS in 2017.
+- 👋 Hi, I’m @Detective41, a full-time iOS developer, i started woking on iOS in 2017
 - 👀 I’m interested in coding and reading
 - 📫 How to reach me: chenyouzhi2010@126.com & chenyouzhi2010@gmail.com
 
